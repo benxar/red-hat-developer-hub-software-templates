@@ -10,7 +10,7 @@ metadata:
     - java
     - maven
 spec:
-  owner: janus-authors
+  owner: rhdeveloper-workshop-authors
   system: janus-idp
   type: service
 
